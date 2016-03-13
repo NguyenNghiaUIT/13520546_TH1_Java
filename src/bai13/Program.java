@@ -46,7 +46,7 @@ public class Program {
 		System.out.println("Nhap gia tri cho x: ");
 		x = in.nextInt();
 		
-		System.out.println(Arrays.binarySearch(C, 200));
+		System.out.println(Arrays.binarySearch(C, x));
 		
 	}
 
